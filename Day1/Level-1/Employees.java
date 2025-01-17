@@ -1,5 +1,5 @@
 // created the class Employee
-public class EmployeeDetails {
+public class Employees {
     // Created the name id and Salary of the employee
     String name;
     int id;
@@ -15,7 +15,7 @@ public class EmployeeDetails {
 
     public static void main(String[] args) {
         // declaration of oject of Employee Class and Instance
-        EmployeeDetails employee1= new EmployeeDetails();
+        Employees employee1= new Employees();
        // added  the name to the Employee Class using the .
         employee1.name= "Amey";
         employee1.id= 022;
