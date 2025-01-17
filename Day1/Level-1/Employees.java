@@ -20,7 +20,7 @@ public class Employees {
         employee1.name= "Amey";
         employee1.id= 022;
         employee1.Salary=100000;
-        // calling the Display fuction with help of object Display;
+        // calling the Display function with help of object Display;
         employee1.Display();
 
 

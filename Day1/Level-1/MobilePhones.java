@@ -1,5 +1,5 @@
 import java.util.Scanner;
-// created a classs Moblie Phone Details to show the details of phone
+// created a class Moblie Phone Details to show the details of phone
 class MobilePhoneDetails
 {
     String brandName;

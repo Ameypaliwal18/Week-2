@@ -15,7 +15,7 @@ public class AreaAndCircumference {
     }
 
     public static void main(String[] args) {
-        // creating the obejct area of the Class AreaOfCircleandCircumherence
+        // creating the object area of the Class AreaOfCircleandCircumherence
         AreaAndCircumference area = new AreaAndCircumference();
        // Scanner of taking input
         Scanner input = new Scanner(System.in);
